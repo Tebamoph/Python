@@ -1,0 +1,3 @@
+print()
+type() -> returns the type of the variable
+print(len(string_var))

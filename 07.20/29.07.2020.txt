@@ -1,0 +1,20 @@
+Logical operators
+
+and
+or
+not
+
+comparison operators
+
+<
+>
+<=
+>=
+==
+!=
+
+while loops
+
+
+shift + f6 => rename variables
+

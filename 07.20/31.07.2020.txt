@@ -1,0 +1,51 @@
+PyCharm
+block out comments with CTRL + RIGHT /
+
+
+
+\n => new line
+\t => tap
+
+
+append() => adds a variable to a list
+
+pop() => deletes a variable from a list
+
+pop(2) => deletes the third variable from a list
+
+sort => sorts variables out
+
+g.e. a,b,c,d,e,
+
+1,2,3,4,5..
+
+
+reverse() => reverses the variables in a list
+
+dictionaries
+
+my_dict = {'name':'bulut', 'age':22, 'from':'Turkey'}
+
+print(d.items())
+print(d.values())
+print(d.keys())
+
+
+Tuples in python
+similar to list but elements cannot be reassigned
+
+my_tuple = ('a','b','c','d')
+my_tuple.count('a')
+returns 1 because its count is 1
+
+my_tuple.index('d')
+returns 3 because its indexed at fourth place
+
+
+sets in python
+
+myset = set()
+myset.add(1)
+myset.add(3)
+myset.add(2)
+

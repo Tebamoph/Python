@@ -1,0 +1,29 @@
+print(string_var.replace())
+'string' in course -> returns boolean
+
+
+operators
+
++
+-
+*
+/
+//
+%
+**
+
+augmented assignment operators
+
++=
+-=
+
+
+operator precedence
+
+paranthesis
+exponentiation **
+multiplication or division
+addition or subtraction
+
+
+ctrk + / to block out multiple lines
