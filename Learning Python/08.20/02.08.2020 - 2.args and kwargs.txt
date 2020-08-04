@@ -1,0 +1,33 @@
+*args and **kwargs
+
+
+*args => arguments
+
+**kwargs => key arguments
+
+Examples:
+
+*args:
+
+def my_func(*args):
+    return sum(args) * .05
+
+print(my_func(40, 60))
+
+**kwargs:
+
+def my_func(**kwargs):
+    print(kwargs)
+    if 'fruit' in kwargs:
+        print('My fruit of choise is {} and {}'.format(kwargs['fruit'], kwargs['veggie']))
+    else:
+        print('I did not find any fruit here')
+
+
+result = my_func(fruit = 'apple', veggie = 'lettuce')
+print(result)
+
+
+------
+
+

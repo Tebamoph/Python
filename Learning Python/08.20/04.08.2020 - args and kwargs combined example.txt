@@ -1,0 +1,4 @@
+def my_func(*args, **kwargs):
+    print('I would like {} {}'.format(args[1], kwargs['fruit']))
+
+my_func(10, 20, 30, fruit = 'orange', food = 'eggs', animal = 'dog')
